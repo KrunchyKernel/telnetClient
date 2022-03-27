@@ -1,4 +1,4 @@
-module github.com/telnetClient
+module github.com/KrunchyKernel/telnetClient
 
 go 1.17
 
